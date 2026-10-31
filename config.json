@@ -1,0 +1,69 @@
+{
+  "code": "U1-ASAN",
+  "title": "SMASH U1 ASAN",
+  "school": "유원대",
+  "fullName": "유원대학교",
+  "campusName": "유원대학교 아산캠퍼스",
+  "tagline": "유원대를 부셔 (시험기간 스트레스 해소)",
+  "description": "유원대학교 아산캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 유원대학교 아산캠퍼스 3D 화면과 SMASH U1 ASAN 제목",
+  "url": "https://hong-iron.github.io/SMASH-U1-ASAN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 494830696
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "심우관": {
+      "style": "ribbon",
+      "wall": "#dcc8b6",
+      "glass": "#1e3c4c",
+      "frame": "#aea093"
+    },
+    "중앙도서관": {
+      "style": "ribbon",
+      "wall": "#e2cab5",
+      "glass": "#1c3344",
+      "frame": "#9a958e"
+    },
+    "창조관": {
+      "style": "stone",
+      "wall": "#e6ccb6",
+      "glass": "#183046",
+      "frame": "#d4b9a5"
+    },
+    "반도체디스플레이 연구센터": {
+      "style": "glass",
+      "wall": "#ecd6c0",
+      "glass": "#1f3346",
+      "frame": "#b8ab9e"
+    },
+    "뷰티화장품교육·연구센터": {
+      "style": "stone",
+      "wall": "#e5cdb6",
+      "glass": "#2f4a56",
+      "frame": "#a29a92"
+    },
+    "명인관": {
+      "style": "dorm",
+      "wall": "#e3cbb5",
+      "glass": "#3f4446",
+      "frame": "#bca895"
+    },
+    "명현관": {
+      "style": "concrete",
+      "wall": "#b4aaa1",
+      "glass": "#1f3a4a",
+      "frame": "#8a8580"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
